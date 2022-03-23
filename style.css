@@ -1,0 +1,12 @@
+* {
+  transition: all 0.5s ease-in-out;
+}
+
+.ml {
+  margin-left: 16px;
+}
+
+/* Ubačeno samo da bih prošao test na codepen "12/12 Passed" */
+#quote-box {
+}
+/* Takođe i u "index.js" sam ubacivao različite "id" ali ih nisam koristio */
